@@ -4,9 +4,10 @@ linetrace_pid.inoは、汎用性のないプログラムです。特定の仕様
 
 ## License
 ### License & Copyright
-  MIT License, Copyright (C) 2022 Yusuke Yamasaki. All Rights Reserved.
+  MIT License  \n
+  Copyright (C) 2022 Yusuke Yamasaki. All Rights Reserved.
 ### 参考サイト様
-{"  https://veresk.hatenablog.com/entry/2019/06/29/192525"}
-{"  https://skpme.com/211/"}
+  https://veresk.hatenablog.com/entry/2019/06/29/192525　\n
+  https://skpme.com/211/
 ### 協力者様
 　Yuya Mochizuki, GitHub: https://github.com/Mochizuki12
