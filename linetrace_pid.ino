@@ -4,14 +4,14 @@
 */
 /* 参考サイト様リンク
   https://veresk.hatenablog.com/entry/2019/06/29/192525
-  https://skpme.com/211/
+  http://kcnotebook.web.fc2.com/robot/linetrace.html
 */   
 /* 協力者様
 　Yuya Mochizuki, GitHub: https://github.com/Mochizuki12
 */
 /*
 　ライントレースと速度の制御をおこなうプログラムです。
-  マイコンは Arduino Mega に対応しています。
+  マイコンは "Arduino Mega 2560 R3" に対応しています。
   このプログラムは、Arduino言語で書かれています。C言語とC++を元とし、Arduinoに対応した言語です。
 　
 　だた、速度制御が上手く機能していない可能性があります。
